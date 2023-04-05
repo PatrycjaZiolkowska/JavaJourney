@@ -1,0 +1,6 @@
+* "public static void main(String[] args)": This is the main method that runs when a Java program is executed. It is the entry point of the program and any code inside this method will be executed.
+* ComparisonOperators: These are operators used to compare values in Java. Some examples of comparison operators are "==", "!=", "<", ">", "<=", and ">=".
+* Custom Scanner: A custom Scanner can be created in Java to read user input from the console. This is done by instantiating a new Scanner object and calling its methods to read user input.
+* Math Operators: Java has several built-in math operators, including addition (+), subtraction (-), multiplication (*), division (/), and modulus (%). These operators can be used to perform mathematical calculations in Java.
+* Increment and Decrement: Java has two unary operators, "++" and "--", which can be used to increment and decrement variables by one, respectively. These operators can be used to simplify code and make it more readable.
+* Logical Operators: Java has three logical operators, "&&" (AND), "||" (OR), and "!" (NOT), which can be used to combine multiple boolean expressions and evaluate their truth values.
