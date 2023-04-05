@@ -14,3 +14,8 @@ git clone https://github.com/PatrycjaZiolkowska/JavaJourney.git
 
 This command will create a local copy of your remote repository on your machine, allowing you to work on the code locally and make changes before pushing them back to the remote repository.
 
+# Resources
+
+* Java documentation
+
+https://github.com/PatrycjaZiolkowska/JavaJourney/blob/main/JavaDocumentation.md
