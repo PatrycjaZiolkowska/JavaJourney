@@ -11,6 +11,7 @@ I am using Visual Studio Code as my local repository to write and test my Java c
 To clone this repository to your local machine, run the following command:
 
 * gh repo clone PatrycjaZiolkowska/JavaJourney
+* git clone https://github.com/PatrycjaZiolkowska/JavaJourney.git
 
 This command will create a local copy of your remote repository on your machine, allowing you to work on the code locally and make changes before pushing them back to the remote repository.
 
