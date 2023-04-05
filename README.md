@@ -16,6 +16,6 @@ This command will create a local copy of your remote repository on your machine,
 
 # Resources
 
-_Java documentation
+* Java documentation
 
 https://github.com/PatrycjaZiolkowska/JavaJourney/blob/main/JavaDocumentation.md
