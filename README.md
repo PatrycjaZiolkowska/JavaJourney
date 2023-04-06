@@ -4,7 +4,7 @@ Welcome to my Java practice repository! This repository contains my practice exe
 
 # Development Environment
 
-I develop and test my Java code using Visual Studio Code as my local development environment, along with the Java Development Kit (JDK) to compile and run the code. I use Git as my version control system to manage and synchronize changes with the remote repository
+I develop and test my Java code using Visual Studio Code as my local development environment, along with the Java Development Kit (JDK) to compile and run the code. I use Git as my version control system to manage and synchronize changes with the remote repository.
 
 # Getting Started
 
