@@ -4,7 +4,7 @@ Download Links
 * JDK: To download the JDK, you can go to the Oracle website at
 https://www.oracle.com/pl/java/technologies/downloads/
 
-VSC: VSC (Visual Studio Code) is a free, open-source code editor that you can download from the official website at https://code.visualstudio.com/Download.
+* VSC: VSC (Visual Studio Code) is a free, open-source code editor that you can download from the official website at https://code.visualstudio.com/Download.
 
 Sources
 * Udemy course - "Java for Software Testers"
