@@ -1,8 +1,7 @@
 I am using Java programming language, JDK (Java Development Kit) for compiling and running Java programs, and VSC (Visual Studio Code) as my code editor.
 
 Download Links
-* JDK: To download the JDK, you can go to the Oracle website at
-https://www.oracle.com/pl/java/technologies/downloads/
+* Java: You can download the Java Development Kit (JDK) from the official Oracle website at https://www.oracle.com/java/technologies/javase-downloads.html, which includes the latest version of Java.
 
 * VSC: VSC (Visual Studio Code) is a free, open-source code editor that you can download from the official website at https://code.visualstudio.com/Download.
 
