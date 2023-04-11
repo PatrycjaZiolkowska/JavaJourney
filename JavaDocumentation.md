@@ -11,12 +11,16 @@ Sources
 * Sample problems to solve found in Google
 
 Java Basics
-* "public class {}" is the basic syntax used to define a class in Java.
-* "public static void main(String[] args)": is the main method that runs when a Java program is executed. It is the entry point of the program and any code inside this method will be executed.
-* Comparison Operators: These are operators used to compare values in Java. Some examples of comparison operators are "==", "!=", "<", ">", "<=", and ">=".
-* Custom Scanner: A custom Scanner can be created in Java to read user input from the console. This is done by instantiating a new Scanner object and calling its methods to read user input.
-* Math Operators: Java has several built-in math operators, including addition (+), subtraction (-), multiplication (*), division (/), and modulus (%). These operators can be used to perform mathematical calculations in Java.
-* Increment and Decrement: Java has two unary operators, "++" and "--", which can be used to increment and decrement variables by one, respectively. These operators can be used to simplify code and make it more readable.
-* Logical Operators: Java has three logical operators, "&&" (AND), "||" (OR), and "!" (NOT), which can be used to combine multiple boolean expressions and evaluate their truth values.
-* Conditional Statements "if-else" is a control statement in Java that allows you to execute code based on a condition. If the condition is true, the code inside the if block is executed, and if it's false, the code inside the else block (if present) is executed instead. It's a fundamental construct in programming and used extensively to make decisions in code.
-* Conditional Statements "switch" allows you to execute different blocks of code based on the value of a single expression. It compares the expression to one or more values (known as cases) and executes the code in the matching case. If none of the cases match, it executes the code in the default case. It's often used as an alternative to a long series of if-else statements.
+* "public class {}" - is the basic syntax used to define a class in Java.
+* "public static void main(String[] args)" - is the main method that runs when a Java program is executed. It is the entry point of the program and any code inside this method will be executed.
+* Comparison Operators - are operators used to compare values in Java. Some examples of comparison operators are "==", "!=", "<", ">", "<=", and ">=".
+* Custom Scanner - a custom Scanner can be created in Java to read user input from the console. This is done by instantiating a new Scanner object and calling its methods to read user input.
+* Math Operators - Java has several built-in math operators, including addition (+), subtraction (-), multiplication (*), division (/), and modulus (%). These operators can be used to perform mathematical calculations in Java.
+* Increment and Decrement - Java has two unary operators, "++" and "--", which can be used to increment and decrement variables by one, respectively. These operators can be used to simplify code and make it more readable.
+* Logical Operators - Java has three logical operators, "&&" (AND), "||" (OR), and "!" (NOT), which can be used to combine multiple boolean expressions and evaluate their truth values.
+* Conditional Statements "if-else" - is a control statement in Java that allows you to execute code based on a condition. If the condition is true, the code inside the if block is executed, and if it's false, the code inside the else block (if present) is executed instead. It's a fundamental construct in programming and used extensively to make decisions in code.
+* Conditional Statements "switch" - allows you to execute different blocks of code based on the value of a single expression. It compares the expression to one or more values (known as cases) and executes the code in the matching case. If none of the cases match, it executes the code in the default case. It's often used as an alternative to a long series of if-else statements.
+* Loops - can execute a block of code as long as a specified condition is reached, loops are handy because they save time, reduce errors, and they make code more readable. There are three types of for loops in Java (For, While, Do While).
+* For Loop - is used to iterate a part of the program several times. If the number of iteration is fixed, it is recommended to use for loop.
+* While loop - is used to iterate a part of the program several times. It the number of iteration is not fixed, it is recommended to use while loop.
+* Do While loop - is used to iterate a part of the program several times. Use it if the number of iteration is not fixed and you must have to execute the loop at least once.
