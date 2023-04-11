@@ -24,6 +24,7 @@ Conditional Statements
 * "switch" - allows you to execute different blocks of code based on the value of a single expression. It compares the expression to one or more values (known as cases) and executes the code in the matching case. If none of the cases match, it executes the code in the default case. It's often used as an alternative to a long series of if-else statements.
 
 Loops
+
 Loops can execute a block of code as long as a specified condition is reached, loops are handy because they save time, reduce errors, and they make code more readable. There are three types of for loops in Java (For, While, Do While).
 * For Loop - is used to iterate a part of the program several times. If the number of iteration is fixed, it is recommended to use for loop.
 * While loop - is used to iterate a part of the program several times. It the number of iteration is not fixed, it is recommended to use while loop.
